@@ -1,5 +1,5 @@
 /**
- * To run this file in Gitpod, use the 
+ * To run this file in Gitpod, use the
  * command node arrow-functions.js in the terminal
  */
 
